@@ -3,6 +3,8 @@ footer {
     gap: 1.5rem;
 
     padding-block: 1.5rem;
+
+    font: 14px/150% var(--font-family);
 }
 
 footer span:nth-child(1) {
